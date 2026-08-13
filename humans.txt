@@ -1,0 +1,12 @@
+/* TEAM */
+Developer: Aaron Paul
+GitHub: 136aaronpaul-rgb
+Email: 136aaronpaul@gmail.com
+From: Zimbabwe
+Role: PWA Developer
+/* SITE */
+App: DZIVISA V25.0 WORLD SHAKER
+Live: https://dzivisa-v12.surge.sh
+GitHub: https://github.com/136aaronpaul-rgb/DZIVISA-V25
+Size: 101.7KB, 9 files
+Built: 2026-08-13 on Android Termux
